@@ -1,2 +1,2 @@
 # 2d_Predictive_coding_compression
-Compression &amp; decompression predictive coding algorithm for pictures 
+Compression &amp; decompression predictive coding algorithm for pictures with GUI and binary files
